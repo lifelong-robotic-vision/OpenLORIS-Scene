@@ -31,7 +31,10 @@ The market data belong to [Gaussian Robotics](http://www.gs-robot.com/service/vs
 
 ## Download
 
-Download files from ***one of*** the following indices of Google Drive, or from [Baidu Pan](https://pan.baidu.com/s/1FoiDFPYPduTEO1CTVRot5g) (code: 59rm). For those who have downloaded package data without groundtruth, check this [groundtruth.zip](https://drive.google.com/file/d/19dz4MhDrhUQp6tIjXv_oQbOmVpsDbHnA/view?usp=sharing) (11 MB).
+Download files from [Hugging Face](https://huggingface.co/datasets/shixuesong/openloris-scene/tree/main) or [Baidu Pan](https://pan.baidu.com/s/1FoiDFPYPduTEO1CTVRot5g) (code: 59rm). For those who have downloaded package data without groundtruth, check this [groundtruth.zip](https://huggingface.co/datasets/shixuesong/openloris-scene/resolve/main/package/groundtruth.zip) (11 MB).
+
+> [!NOTE]
+> (Since Dec 2025) The previous download links on Google Drive are no longer valid. The index below is provided for reference only. The file packaging on Hugging Face and Baidu Pan differs slightly from the table below, but the contents are the same.
 
 ### New Release of May 2020
 
@@ -69,7 +72,6 @@ Download files from ***one of*** the following indices of Google Drive, or from 
 
 \* The laser scan data are not available in the packages.
 
-**Alternative download from Baidu Pan**: [https://pan.baidu.com/s/1FoiDFPYPduTEO1CTVRot5g](https://pan.baidu.com/s/1FoiDFPYPduTEO1CTVRot5g) (code: 59rm) (The files here are a little bit different from those listed above on Google Drive, due to the file size limit of 20GB on Baidu Pan, but their contents are the same.)
 
 
 ---
